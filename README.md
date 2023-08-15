@@ -2,12 +2,9 @@
 Example usage of DJI Tello EDU with the Python SDK
 
 # Getting Started with Tello EDU
-- Introduction to Tello EDU
-- Basic Manual Control with Tello Mobile Application
-  - Tello Mobile Application Installation
-  - Tello Connection
-  - Firmware Update
-  - Basic Control and Function
+- [Introduction to Tello EDU](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/doc/00_Introduction_to_TelloEDU.md)
+- [Basic Manual Control with Tello Mobile Application](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/doc/01_Manual_Control_with_Application.md)
+- [Firmware Update]()
 
 # Getting Started with DJI Tello EDU with Python
 - Library Installation
