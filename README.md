@@ -12,10 +12,10 @@ Example usage of DJI Tello EDU with the Python SDK
 - Example Code
   - Basic Movement
     - [Takeoff/Landing](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/basic%20movement/takeoff-landing.py)
-    - Move
-    - Rotate
-    - Flip
-    - Specific Position
+    - [Move to specific direction](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/basic%20movement/move2direction.py)
+    - [Rotate]()
+    - [Flip]()
+    - [Move to specific position]()
   - Get Tello Sensor/Status
     - Battery Level
     - Barometer
@@ -32,7 +32,9 @@ Example usage of DJI Tello EDU with the Python SDK
   - Record Video
 # Getting Started with Swarm
 - Introduction to Swarm
+- Swarm Setup
 - Example Code
+  - Basic Swarm Movement
   - Parallel Control
   - Sequential Control
   
