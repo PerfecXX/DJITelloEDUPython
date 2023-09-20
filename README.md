@@ -11,7 +11,7 @@ Example usage of DJI Tello EDU with the Python SDK
 - Connect to Tello
 - Example Code
   - Basic Movement
-    - Takeoff/Landing
+    - [Takeoff/Landing](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/basic%20movement/takeoff-landing.py)
     - Move
     - Rotate
     - Flip
