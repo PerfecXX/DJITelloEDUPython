@@ -7,7 +7,7 @@ Example usage of DJI Tello EDU with the Python SDK
 - [Firmware Update](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/doc/02_Firmware_Update.md)
 
 # Getting Started with DJI Tello EDU with Python
-- Library Installation
+- [Library Installation](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/doc/libinstall.md)
 - Connect to Tello
 - Example Code
   - Basic Movement
