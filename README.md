@@ -37,4 +37,7 @@ Example usage of DJI Tello EDU with the Python SDK
   - Sequential Control
   
 # Reference
+
 https://djitellopy.readthedocs.io/en/latest/
+
+https://github.com/damiafuentes/DJITelloPy
