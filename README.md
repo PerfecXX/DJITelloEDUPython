@@ -25,11 +25,10 @@ Example usage of DJI Tello EDU with the Python SDK
     - [Barometer](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/get%20sensor/get_barometer.py)
     - [Temperature](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/get%20sensor/get_temperature.py)
     - [Pitch/Roll/Yaw](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/get%20sensor/get_rollpitchyaw.py)
-    - Speed/Acceleration
-    - Flight Time
-  - Mission Pad
+  - Mission Pad (Soon)
   - Camera
-    - Take a single photo.
+    - Library Installation.
+    - [Take a single photo](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/camera/photo_single.py)
     - Record a video.
   
 # Getting Started with Multiply Tello Control
