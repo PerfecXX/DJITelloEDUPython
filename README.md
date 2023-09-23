@@ -15,7 +15,7 @@ Example usage of DJI Tello EDU with the Python SDK
     - [Move to specific direction](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/basic%20movement/move2direction.py)
     - [Rotate](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/basic%20movement/rotate.py)
     - [Flip](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/basic%20movement/flip.py)
-    - [Move to specific position]()
+    - [Move to specific position](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/basic%20movement/move2position.py)
   - Get Tello Sensor/Status
     - Battery Level
     - Barometer
