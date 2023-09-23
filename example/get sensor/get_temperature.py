@@ -2,7 +2,7 @@
 from djitellopy import Tello
 
 # drone Setup
-drone = Tello('192.168.31.11')
+drone = Tello()
 drone.connect()
 
 # Get the temperature data in Celsius.
