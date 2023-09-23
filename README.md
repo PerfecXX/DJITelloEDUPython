@@ -26,7 +26,7 @@ Example usage of DJI Tello EDU with the Python SDK
     - [Temperature](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/get%20sensor/get_temperature.py)
     - [Pitch/Roll/Yaw](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/get%20sensor/get_rollpitchyaw.py)
   - Mission Pad (Soon)
-  - Camera
+  - [Camera](https://github.com/PerfecXX/DJITelloEDUPython/tree/main/example/camera)
     - Library Installation.
     - [Take a single photo](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/camera/photo_single.py)
     - [Video Capture](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/camera/video_capture.py)
