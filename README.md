@@ -21,11 +21,8 @@ Example usage of DJI Tello EDU with the Python SDK
     - Barometer
     - Highest Temperature
     - Lowest Temperature
-    - Pitch
-    - Roll
-    - Yaw
-    - Speed
-    - Acceleration
+    - Pitch/Roll/Yaw
+    - Speed/Acceleration
     - Flight Time
   - Mission Pad
   - Take Photo
