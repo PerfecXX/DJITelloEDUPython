@@ -7,4 +7,4 @@ drone.connect()
 
 # Get the battery data
 battery = drone.get_battery()
-print(battery)
+print('drone battery:',battery,' %')
