@@ -1,14 +1,17 @@
 # DJITelloEDUPython
+
 Example usage of DJI Tello EDU with the Python SDK
 
 # Getting Started with Tello EDU
+
 - [Introduction to Tello EDU](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/doc/00_Introduction_to_TelloEDU.md)
 - [Basic Manual Control with Tello Mobile Application](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/doc/01_Manual_Control_with_Application.md)
 - [Firmware Update](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/doc/02_Firmware_Update.md)
 
 # Getting Started with DJI Tello EDU with Python
+
 - [Library Installation](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/doc/libinstall.md)
-- Connect to Tello
+- [Connect to Tello]()
 - Example Code
   - Basic Movement
     - [Takeoff/Landing](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/basic%20movement/takeoff-landing.py)
@@ -25,9 +28,12 @@ Example usage of DJI Tello EDU with the Python SDK
     - Speed/Acceleration
     - Flight Time
   - Mission Pad
-  - Take Photo
-  - Record Video
-# Getting Started with Swarm
+  - Camera
+    - Take a single photo.
+    - Record a video.
+  
+# Getting Started with Multiply Tello Control
+
 - Introduction to Swarm
 - Swarm Setup
 - Example Code
