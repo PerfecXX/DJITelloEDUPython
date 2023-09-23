@@ -29,7 +29,8 @@ Example usage of DJI Tello EDU with the Python SDK
   - Camera
     - Library Installation.
     - [Take a single photo](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/camera/photo_single.py)
-    - Record a video.
+    - [Video Capture](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/camera/video_capture.py)
+    - [Record a video](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/camera/video_recording.py)
   
 # Getting Started with Multiply Tello Control
 - Access Point/Router Setup
