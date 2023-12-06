@@ -25,7 +25,7 @@ Example usage of DJI Tello EDU with the Python SDK
     - [Barometer](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/get%20sensor/get_barometer.py)
     - [Temperature](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/get%20sensor/get_temperature.py)
     - [Pitch/Roll/Yaw](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/get%20sensor/get_rollpitchyaw.py)
-  - Mission Pad (Soon)
+  - Mission Pad (TODO)
   - [Camera](https://github.com/PerfecXX/DJITelloEDUPython/tree/main/example/camera)
     - Library Installation.
     - [Take a single photo](https://github.com/PerfecXX/DJITelloEDUPython/blob/main/example/camera/photo_single.py)
@@ -34,14 +34,20 @@ Example usage of DJI Tello EDU with the Python SDK
   
 # Getting Started with Multiply Tello Control
 - Access Point/Router Setup
-- 
-- Introduction to Swarm
-- Swarm Setup
 - Example Code
-  - Basic Swarm Movement
-  - Parallel Control
-  - Sequential Control
-  
+  - Multi Control
+  - SWARM
+    - Parallel Control
+    - Sequential Control
+
+# Tool/Utilities
+- Tello IP Finder
+
+# Example Project
+- VR Flight with PS4 Controller (TODO)
+- Image Processing with Tello (TODO)
+- Landing Pad with ESP32 MicroPython (TODO)
+
 # Reference
 
 https://djitellopy.readthedocs.io/en/latest/
