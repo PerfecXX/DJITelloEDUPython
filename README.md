@@ -41,7 +41,7 @@ Example usage of DJI Tello EDU with the Python SDK
     - Sequential Control
 
 # Tool/Utilities
-- Tello IP Finder
+- [Tello IP Finder](https://github.com/PerfecXX/PyTelloEDU-IPScaner)
 
 # Example Project
 - VR Flight with PS4 Controller (TODO)
